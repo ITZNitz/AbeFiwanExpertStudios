@@ -121,6 +121,8 @@ date_default_timezone_set("Asia/Kuala_Lumpur");
 
                             <p class="w3-small" style="padding-left: 5px;">Untuk mulakan perkongsian anda dan simpan resipi yang anda minat, sila <a href="register.php">daftar atau log masuk.</a></p>
 
+                            <!--<img src="sources/header/footer.png" class="w3-round-large" alt="" width="250px" style="margin-left: -16px; margin-top: 311px;">-->
+
 
 
                         </div>
