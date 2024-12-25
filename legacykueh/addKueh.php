@@ -15,21 +15,21 @@ include ('header.php');
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
         <link href="https://fonts.cdnfonts.com/css/product-sans" rel="stylesheet">
 
-
+        
                     <!--CONTENT START HERE-->
                     <div class="container w-75">
                         <div class="row">
                             <div class="col-12 col-md-3 my-4">
-                                <img src="sources\kuehDetails\cekodokpisang.jpeg" class="img-fluid text-center" alt="test image" style="min-height:350px;">
+                                <img src="sources\kuehDetails\cekodokpisang.jpeg" class="img-fluid text-center" alt="test image" style="min-height:350px; object-fit: cover;">
                             </div>
                             <div class="col-12 col-md gy-4">
                                 <div class="col-12 bg-primary">
-                                    <input class="w-100 p-1 border-0 shadow-none fw-bolder fs-2" type="text" name="kuehName" placeholder="Tajuk: Kuih Lapis Atok">
+                                    <input class="w-100 p-1 border-0 shadow-none fw-bolder fs-2" style="background-color: #FFFAF0;" type="text" name="kuehName" placeholder="Tajuk: Kuih Lapis Atok">
                                 </div>
                                 <div class="col-12">
                                         <div class="d-flex align-items-center my-2">
                                             <!-- Avatar -->
-                                            <img src="sources\header\logo.png" alt="Profile Picture" class="rounded-circle border" width="50" height="50">
+                                            <img src="sources\header\logo.png" alt="Profile Picture" class="rounded-circle border" width="50" height="50" style="">
                                             <!-- Text -->
                                             <div class="ms-3">
                                                 <h6 class="mb-0">Haziq Akram</h6>
@@ -38,7 +38,7 @@ include ('header.php');
                                         </div>
                                 </div>
                                 <div class="col-12">
-                                    <textarea class="w-100 p-1 border-0 shadow-none" name="kuehDesc" placeholder="Share kisah resepi anda"></textarea>
+                                    <textarea class="w-100 p-1 border-0 shadow-none" name="kuehDesc" style="background-color: #FFFAF0;" placeholder="Share kisah resepi anda"></textarea>
                                 </div>
                             </div>
                         </div>
