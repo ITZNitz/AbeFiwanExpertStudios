@@ -17,27 +17,25 @@ include ('header.php');
 
 
                     <!--CONTENT START HERE-->
-                    <div class="container">
+                    <div class="container w-75">
                         <div class="row">
-                            <div class="col-3 my-4">
-                                <img src="..." class="img-fluid text-center" alt="test image" style="min-height:350px;">
+                            <div class="col-12 col-md-3 my-4">
+                                <img src="sources\kuehDetails\cekodokpisang.jpeg" class="img-fluid text-center" alt="test image" style="min-height:350px;">
                             </div>
-                            <div class="col gy-4">
+                            <div class="col-12 col-md gy-4">
                                 <div class="col-12 bg-primary">
                                     <input class="w-100 p-1 border-0 shadow-none fw-bolder fs-2" type="text" name="kuehName" placeholder="Tajuk: Kuih Lapis Atok">
                                 </div>
                                 <div class="col-12">
-                                    
                                         <div class="d-flex align-items-center my-2">
                                             <!-- Avatar -->
-                                            <img src="avatar.jpg" alt="Profile Picture" class="rounded-circle border" width="50" height="50">
+                                            <img src="sources\header\logo.png" alt="Profile Picture" class="rounded-circle border" width="50" height="50">
                                             <!-- Text -->
                                             <div class="ms-3">
                                                 <h6 class="mb-0">Haziq Akram</h6>
                                                 <small class="text-muted">@cook_111408822</small>
                                             </div>
                                         </div>
-                                    
                                 </div>
                                 <div class="col-12">
                                     <textarea class="w-100 p-1 border-0 shadow-none" name="kuehDesc" placeholder="Share kisah resepi anda"></textarea>
@@ -74,7 +72,7 @@ include ('header.php');
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-12 col-md-9 py-3">
+                            <div class="col-12 col-md-9 py-3 ms-3">
                                 <h1 class="fw-bolder">Langkah</h1>
                                 <div class="row gy-3">
                                     <div class="col">Tempoh Masak</div>
