@@ -237,15 +237,15 @@ date_default_timezone_set("Asia/Kuala_Lumpur");
                                     <input class="w-100 p-1 border-0 shadow-none fw-bolder fs-2" type="text" name="kuehName" placeholder="Tajuk: Kuih Lapis Atok">
                                 </div>
                                 <div class="col-12">
-                                        <div class="d-flex align-items-center my-2">
-                                            <!-- Avatar -->
-                                            <img src="sources\header\logo.png" alt="Profile Picture" class="rounded-circle border" width="50" height="50">
-                                            <!-- Text -->
-                                            <div class="ms-3">
-                                                <h6 class="mb-0">Haziq Akram</h6>
-                                                <small class="text-muted">@cook_111408822</small>
-                                            </div>
+                                    <div class="d-flex align-items-center my-2">
+                                        <!-- Avatar -->
+                                        <img src="sources\header\logo.png" alt="Profile Picture" class="rounded-circle border" width="50" height="50">
+                                        <!-- Text -->
+                                        <div class="ms-3">
+                                            <h6 class="mb-0">Haziq Akram</h6>
+                                            <small class="text-muted">@cook_111408822</small>
                                         </div>
+                                    </div>
                                 </div>
                                 <div class="col-12">
                                     <textarea class="w-100 p-1 border-0 shadow-none" name="kuehDesc" placeholder="Share kisah resepi anda"></textarea>
@@ -253,7 +253,7 @@ date_default_timezone_set("Asia/Kuala_Lumpur");
                             </div>
                         </div>
                         <div class="row mt-5">
-                            <div class="col-12 col-md-3 py-3">
+                            <div class="col-12 col-lg-3 col-md-6 py-3">
                                 <h1 class="fw-bolder">Ramuan</h1>
                                 <div class="row gy-3">
                                     <div class="col">Sajian</div>
@@ -282,7 +282,7 @@ date_default_timezone_set("Asia/Kuala_Lumpur");
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-12 col-md-9 py-3 ms-3">
+                            <div class="col-12 col-lg col-md-6 py-3 ms-3">
                                 <h1 class="fw-bolder">Langkah</h1>
                                 <div class="row gy-3">
                                     <div class="col">Tempoh Masak</div>
