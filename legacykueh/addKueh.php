@@ -43,7 +43,7 @@ include ('header.php');
                             </div>
                         </div>
                         <div class="row mt-5">
-                            <div class="col-12 col-md-3 py-3">
+                            <div class="col-12 col-lg-3 col-md-6 py-3">
                                 <h1 class="fw-bolder">Ramuan</h1>
                                 <div class="row gy-3">
                                     <div class="col">Sajian</div>
@@ -72,8 +72,8 @@ include ('header.php');
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-12 col-md-9 py-3 ms-3">
-                                <h1 class="fw-bolder">Langkah</h1>
+                            <div class="col-12 col-lg col-md-6 py-3 ms-3">
+                                <h1 class="fw-bolder">Cara Memasak</h1>
                                 <div class="row gy-3">
                                     <div class="col">Tempoh Masak</div>
                                     <div class="col text-start">
