@@ -9,7 +9,8 @@ $favorites = [
         'kuehDesc' => 'Description 1',
         'image' => 'https://i.ytimg.com/vi/xVVHZ_CJllg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAOruLYeZiF3LKxnnGK63k51jC8HQ',
         'tagKueh' => 'tag 1, tag 2, tag 3',
-        'date' => '10'
+        'date' => '2024-12-20'
+
     ],
     [
         'kuehID' => 2,
@@ -17,7 +18,8 @@ $favorites = [
         'kuehDesc' => 'Description 2',
         'image' => 'https://i.ytimg.com/vi/xVVHZ_CJllg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAOruLYeZiF3LKxnnGK63k51jC8HQ',
         'tagKueh' => 'tag 1, tag 2, tag 3',
-        'date' => '20'
+        'date' => '2024-12-22'
+
     ],
     [
         'kuehID' => 3,
@@ -25,7 +27,8 @@ $favorites = [
         'kuehDesc' => 'Description 3',
         'image' => 'https://i.ytimg.com/vi/xVVHZ_CJllg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAOruLYeZiF3LKxnnGK63k51jC8HQ',
         'tagKueh' => 'tag 1, tag 2, tag 3',
-        'date' => '30'
+        'date' => '2024-12-18'
+
     ]
 ];
 

@@ -23,7 +23,7 @@ include ('header.php');
                         <div class="row ">
                             <div class="col-12 col-md-4 my-4 ">
                                 <img src="sources\kuehDetails\cekodokpisang.jpeg"
-                                    class="img-fluid text-center rounded-3" alt="test_image" style="min-height:380px;">
+                                    class="img-fluid text-center rounded-3" alt="test_image" style="min-height:380px; object-fit: cover;">
                             </div>
                             <div class="col-12 col-md my-4 d-flex flex-column">
                                 <div class="col-12">
